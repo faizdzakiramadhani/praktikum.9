@@ -1,3 +1,7 @@
+# nama  : faiz dzaki ramadhani
+# nim   : 312210223
+# kelas : TI.22.A2
+
 # Praktikum.9
 ## Cara Penanganan Eksepsi di Python
 Halo sahabat programmer kali ini kita akan membahas cara menangani eksepsi di python, seperti yang kita ketahui di dalam pemrograman kesalahan atau error adalah hal yang sering terjadi, tidak mungkin seorang programmer ketika membuat sebuah program tidak pernah mengalami hal ini. Bahkan programmer sering di sebut sebagai troble maker karena kegiatan programming memang tidak luput dari hal itu.
